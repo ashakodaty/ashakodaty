@@ -1,4 +1,5 @@
-### Hi there 👋
+ More about me 
+ Hi there 👋
 
 <!--
 I am QA Analyst skilled at techinical leadership, communications and presentations with experience in full project life cycle from design to implementation to integration. 
