@@ -4,7 +4,7 @@ I am QA Analyst skilled at techinical leadership, communications and presentatio
 
 I enjoy working in teams,collaborating, pair programming and excited for learning new things and sharing my knowledge with others in a way that's as public as possible.
 
-Also, passionate about making open source tools more accessible.Some technologies I enjoy working with Maven Java scripting.
+Also, passionate about making open source tools more accessible.Some technologies I enjoy working with Maven- TestNg , Cucumber Frameworks with Java scripting.
 
 On my GitHub, you will find personal projects and experiments I've been working on.
 
